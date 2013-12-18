@@ -75,4 +75,9 @@ public class IoBuffer {
 
 		return this;
 	}
+
+	public Object remaining() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
